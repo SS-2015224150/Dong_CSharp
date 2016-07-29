@@ -11,6 +11,7 @@ namespace CSharp_Study
         static void Main(string[] args)
         {
             Console.WriteLine("마스터 최똥글");
+            CSharp_Study.Chapter5._2.createLib.Start();
         }
     }
 }
