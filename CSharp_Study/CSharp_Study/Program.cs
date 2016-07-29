@@ -10,7 +10,7 @@ namespace CSharp_Study
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("마스터 최똥글");
+            Console.WriteLine("테스터 최똥글");
         }
     }
 }
