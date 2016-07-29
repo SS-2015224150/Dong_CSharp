@@ -10,7 +10,12 @@ namespace CSharp_Study
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("테스터 최똥글");
+=======
+            Console.WriteLine("마스터 최똥글");
+            CSharp_Study.Chapter5._2.createLib.Start();
+>>>>>>> master
         }
     }
 }
